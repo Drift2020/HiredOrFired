@@ -58,5 +58,6 @@ public class PieceFileDownWord : MonoBehaviour
     void OnMouseDown()
     {
         Delete();
+
     }
 }

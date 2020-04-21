@@ -18,8 +18,6 @@ public class PieceFileDown : MonoBehaviour
     public Score my_score;
     public Image img;
 
-
-
     public TypeFile typeFile
     {
         get
